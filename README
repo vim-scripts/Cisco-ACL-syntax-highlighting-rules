@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1141
+
+This syntax highlighting script can be used for files which contain Cisco ACL rules. This is particulary usefull for Cisco ACL framework administration. (e.g. keeping ACLs in cvs, editing them and loading to Cisco boxes automatically)
+
+This script can be used with aclcheck (http://techie.devnull.cz/aclcheck)
